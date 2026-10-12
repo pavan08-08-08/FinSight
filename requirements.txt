@@ -1,0 +1,4 @@
+# ProofLedger Core Dependencies
+pydantic>=2.10.0,<3.0.0
+pytest>=8.0.0
+PyMuPDF==1.25.3
